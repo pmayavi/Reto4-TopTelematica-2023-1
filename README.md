@@ -1,3 +1,10 @@
+# **Reto N4**
+
+**Curso:** Tópicos Especiales en Telemática <br>
+**Por:** Pablo Maya Villegas y Salomon Velez Perez.<br>
+
+*******
+
 Crear el grupo de seguridad con las siguientes reglas:  
 ![Diagrama de arquitectura](https://github.com/pmayavi/Reto4-TopTelematica-2023-1/blob/main/Imagenes/SecurityGroup.png)  
 Crear la base de datos, standar create, MariaDB, Free tier, llenar las credenciales, el usuario de la nuestra es pmayav y su contraseña pmayav1234, y ponerle el grupo de seguridad que creamos  
